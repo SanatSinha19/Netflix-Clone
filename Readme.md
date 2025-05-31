@@ -4,6 +4,6 @@ This project is a Netflix Clone built using HTML and CSS. It replicates the basi
 Note:
 This version is currently not responsive — optimized for desktop screens only.
 
-Technologies Used
+Technologies Used -
 HTML5
 CSS3
